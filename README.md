@@ -1,6 +1,6 @@
 # Customized_Hearing_Aid_with_FSK_Modulation
 This repository contains the full implementation of a personalized hearing aid system that leverages FSK modulation and digital signal processing techniques. The system is developed using **MATLAB**, **LabVIEW**, and **NI USRP-2900**. It is designed to test individual hearing thresholds and transmit personalized gain values wirelessly, which are then applied through a real-time audio filtering process using a filter bank structure.
-**![Workflow](https://github.com/user-attachments/assets/84c26c86-1c8f-40a9-bcb4-0b0fd8284f44) **  
+![Workflow](https://github.com/user-attachments/assets/84c26c86-1c8f-40a9-bcb4-0b0fd8284f44) 
 ---
 
 ##  Requirements
@@ -32,9 +32,8 @@ This repository contains the full implementation of a personalized hearing aid s
 - Open and run `HearingTestApp.mlapp`.
 - This app will present test tones at various frequencies.
 
-> **![MATLAB Interface](![image](https://github.com/user-attachments/assets/3d7be009-ec2c-4ab2-a32d-ace12a74acf9)
-)
-**  
+> ![image](https://github.com/user-attachments/assets/3d7be009-ec2c-4ab2-a32d-ace12a74acf9)
+  
 > *(Leave space to insert image later in GitHub)*
 
 - Click `StartTestButton` to begin.
@@ -73,7 +72,7 @@ This repository contains the full implementation of a personalized hearing aid s
 
 You can access the full project paper by contacting us directly or by visiting our LinkedIn profiles listed above.
 
-**Emirhan Garip** – [LinkedIn]([https://www.linkedin.com/in/emirhan-garip-776146215/)) – [emirhan.garip@agu.edu.tr](mailto:emirhan.garip@agu.edu.tr)
+**Emirhan Garip** – [LinkedIn](https://www.linkedin.com/in/emirhan-garip-776146215/)) – [emirhan.garip@agu.edu.tr](mailto:emirhan.garip@agu.edu.tr)
 **İbrahim Umut Doruk** – [LinkedIn](https://www.linkedin.com/in/ibrahim-umut-doruk-9b1860217/)) – [i.umut98@hotmail.com](mailto:i.umut98@hotmail.com)
 
 
