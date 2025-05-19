@@ -32,9 +32,8 @@ This repository contains the full implementation of a personalized hearing aid s
 - Open and run `HearingTestApp.mlapp`.
 - This app will present test tones at various frequencies.
 
-> ![image](https://github.com/user-attachments/assets/3d7be009-ec2c-4ab2-a32d-ace12a74acf9)
+ ![image](https://github.com/user-attachments/assets/3d7be009-ec2c-4ab2-a32d-ace12a74acf9)
   
-> *(Leave space to insert image later in GitHub)*
 
 - Click `StartTestButton` to begin.
 - Respond with `HearButton` or `NotHearButton` based on perception.
