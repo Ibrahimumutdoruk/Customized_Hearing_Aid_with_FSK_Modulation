@@ -15,7 +15,7 @@ This repository contains the full implementation of a personalized hearing aid s
 ---
 
 
-## 🚀 How to Run the Project
+##  How to Run the Project ?
 
 ### 1. Run the Transmitter in LabVIEW
 
@@ -32,7 +32,8 @@ This repository contains the full implementation of a personalized hearing aid s
 - Open and run `HearingTestApp.mlapp`.
 - This app will present test tones at various frequencies.
 
-> 🖼️ **[C:\Users\Asus\Desktop\MATLAB Interface]**  
+> **![MATLAB Interface](https://github.com/user-attachments/assets/84c26c86-1c8f-40a9-bcb4-0b0fd8284f44)
+**  
 > *(Leave space to insert image later in GitHub)*
 
 - Click `StartTestButton` to begin.
