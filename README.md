@@ -72,7 +72,7 @@ This repository contains the full implementation of a personalized hearing aid s
 
 You can access the full project paper by contacting us directly or by visiting our LinkedIn profiles listed above.
 
-**Emirhan Garip** – [LinkedIn](https://www.linkedin.com/in/emirhan-garip-776146215/)) – [emirhan.garip@agu.edu.tr](mailto:emirhan.garip@agu.edu.tr)
-**İbrahim Umut Doruk** – [LinkedIn](https://www.linkedin.com/in/ibrahim-umut-doruk-9b1860217/)) – [i.umut98@hotmail.com](mailto:i.umut98@hotmail.com)
+**Emirhan Garip** – [LinkedIn](https://www.linkedin.com/in/emirhan-garip-776146215/)) 
+**İbrahim Umut Doruk** – [LinkedIn](https://www.linkedin.com/in/ibrahim-umut-doruk-9b1860217/)) 
 
 
