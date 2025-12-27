@@ -68,11 +68,4 @@ This repository contains the full implementation of a personalized hearing aid s
 6. User hears adapted audio output.
 
 ---
-##  Contributors
-
-You can access the full project paper by contacting us directly or by visiting our LinkedIn profiles listed above.
-
-**Emirhan Garip** – [LinkedIn](https://www.linkedin.com/in/emirhan-garip-776146215/)) 
-**İbrahim Umut Doruk** – [LinkedIn](https://www.linkedin.com/in/ibrahim-umut-doruk-9b1860217/)) 
-
 
